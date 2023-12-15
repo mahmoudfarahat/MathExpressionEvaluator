@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathExpressionEvaluator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5838fe0979de1d4cb35c4a42347d143e90c6f50e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathExpressionEvaluator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathExpressionEvaluator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

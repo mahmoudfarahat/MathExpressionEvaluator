@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MathExpressionEvaluator
-build_property.ProjectDir = C:\Users\mahmoud.farahat\Desktop\MathExpressionEvaluator\MathExpressionEvaluator\
+build_property.ProjectDir = C:\Users\Mahmoud\Desktop\MathExpressionEvaluator\MathExpressionEvaluator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
